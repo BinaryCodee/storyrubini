@@ -1,0 +1,10 @@
+xyz\binarycodee\storyrpg\system\guis\MainGUI.class
+xyz\binarycodee\storyrpg\system\listeners\PlayerKSListener.class
+xyz\binarycodee\storyrpg\system\commands\RubiniCommands.class
+xyz\binarycodee\storyrpg\system\guis\MainGUI$MainGUIEvents.class
+xyz\binarycodee\storyrpg\system\managers\EconomyManager.class
+xyz\binarycodee\storyrpg\system\placeholders\RubiniHooks.class
+xyz\binarycodee\storyrpg\StoryRubini.class
+xyz\binarycodee\storyrpg\system\commands\DailyCommand.class
+xyz\binarycodee\storyrpg\system\utils\ChatUtils.class
+xyz\binarycodee\storyrpg\system\utils\PlayerUtils.class
